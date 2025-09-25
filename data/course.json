@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "legacy_uid": "05d8d699-e975-cd20-3431-737c7d2ec69f",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "39f82fb8-615a-8881-c498-d4883ef522c6",
+    "website": "21a-461-what-is-capitalism-fall-2013"
+  },
+  "course_title": "What is Capitalism?",
+  "course_description": "As we live in the aftermath of the Financial Crisis of 2008, there are renewed questions about the nature of the economic system\u2014capitalism\u2014within which we live. What are its benefits and drawbacks? Why does it garner both so much opposition and support? What are its moral, economic, social and political implications? Is it even a \"system\"? How has capitalism played out in different historical moments and regions of the world? This class addresses the question \"what is capitalism?\" from a social scientific point of view, rather than a classical economic one.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.461",
+  "course_image_thumbnail": {
+    "content": "ee4ee5e4-0668-ff9a-c0bb-7ba80d8aa11c",
+    "website": "21a-461-what-is-capitalism-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "ea563075-ecf9-4bbb-875c-281e80835dba",
+  "site_short_id": "21a.461-fall-2013",
+  "site_url_path": "courses/21a-461-what-is-capitalism-fall-2013",
+  "title": "Course Metadata"
+}
