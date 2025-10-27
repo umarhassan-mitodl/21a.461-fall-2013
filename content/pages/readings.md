@@ -55,7 +55,7 @@ Competing Ways of Understanding Expanding Class Inequality in the United States
 {{< tdopen >}}
 
 
-Ehrenreich, Barbara. "Deindustrializing Chicago." Chapter 6 in _The Insecure American: How We Got Here and What We Should do About It_. Edited by Hugh Gusterson, and Catherine Besteman. University of California Press, 2009. ISBN: 9780520259713. \[Preview with [Google Books](http://books.google.com/books?id=waaG4IfAK38C&pg=PAfrontcover)\]
+Ehrenreich, Barbara. "Deindustrializing Chicago." Chapter 6 in _The Insecure American: How We Got Here and What We Should do About It_. Edited by Hugh Gusterson, and Catherine Besteman. University of California Press, 2009. ISBN: 9780520259713. \[Preview with {{% resource_link "af5a182c-98b1-49d4-9f56-3db7372dbb6f" "Google Books" %}}\]
 
 Murray, Charles. "Industriousness." Chapter 9 in _Coming Apart: The State of White America, 1960–2010_. Crown Forum, 2013. ISBN: 9780307453433.
 
@@ -75,9 +75,9 @@ An Ethnographic Problem: The Financial Crisis of 2008
 {{< tdopen >}}
 
 
-Stewart, James B. "[A Reporter at Large: Eight Days](http://www.newyorker.com/reporting/2009/09/21/090921fa_fact_stewart)." _The New Yorker_, September 21, 2009.
+Stewart, James B. "{{% resource_link "a1b3f65f-6703-44a1-961c-0715124b7e2b" "A Reporter at Large: Eight Days" %}}." _The New Yorker_, September 21, 2009.
 
-Boyer, Peter J. "[Eviction](http://www.newyorker.com/reporting/2008/11/24/081124fa_fact_boyer)." _The New Yorker_, November 24, 2008.
+Boyer, Peter J. "{{% resource_link "fd0d501b-a677-45a5-8c87-5cac9abf6b53" "Eviction" %}}." _The New Yorker_, November 24, 2008.
 
 
 {{< tdclose >}}
@@ -109,7 +109,7 @@ Smith, Adam. _An Inquiry into Nature and Causes of the Wealth of Nations (A Sele
 *   Chapter IV, pp. 31–5.
 *   Chapter V, pp. 36–44.
 
-Marx, Karl, and Frederick Engels. [_Manifesto of the Communist Party_](http://www.gutenberg.org/ebooks/61). International Publishers, 1848.
+Marx, Karl, and Frederick Engels. {{% resource_link "66dfd736-cd42-452c-a505-d3a2c20f6e61" "_Manifesto of the Communist Party_" %}}. International Publishers, 1848.
 
 *   Preface, pp. 3–7.
 *   Manifesto of the Communist Party, p. 8.
@@ -137,7 +137,7 @@ Weber, Max. "Class, Status, Party Weber, Max." Chapter VII in _From Max Weber: E
 
 ———. "The Spirit of Capitalism." Chapter II in _The Protestant Ethic and the Spirit of Capitalism_. Translated by Talcott Parsons. Charles Scribner's Sons, 1958, pp. 47–78.
 
-Bourdieu, Pierre. "[The Forms of Capital](http://www.marxists.org/reference/subject/philosophy/works/fr/bourdieu-forms-capital.htm)." In _Handbook of Theory and Research for the Sociology of Education_. Edited by John G. Richardson. Greenwood, 1986. ISBN: 9780313235290.
+Bourdieu, Pierre. "{{% resource_link "71b56c95-46a0-4eae-80c7-1bf3756da4b2" "The Forms of Capital" %}}." In _Handbook of Theory and Research for the Sociology of Education_. Edited by John G. Richardson. Greenwood, 1986. ISBN: 9780313235290.
 
 {{% resource_link 69e8e9cd-e1d6-2b5d-8cdb-c7bdafff8fd1 "Study Questions for Marx and Weber (PDF)" %}}
 
@@ -155,7 +155,7 @@ Capitalism After World War II
 {{< tdopen >}}
 
 
-Hayek, Friedrich A. "Individualism: True and False." In _Individualism and Economic Order_. University of Chicago Press, 1948. ISBN: 9780226320755. \[Preview with [Google Books](http://books.google.com/books?id=iONMIDMmgoMC&pg=PAfrontcover)\]
+Hayek, Friedrich A. "Individualism: True and False." In _Individualism and Economic Order_. University of Chicago Press, 1948. ISBN: 9780226320755. \[Preview with {{% resource_link "f4770015-de0d-4284-b7ec-fb5557444d91" "Google Books" %}}\]
 
 Polanyi, Karl. _The Great Transformation: The Political and Economic Origins of Our Time_. Beacon Press, 2001. ISBN: 9780807056431.
 
@@ -219,11 +219,11 @@ Contemporary Debates over Capitalism: The Tea Party vs. Occupy Wall Street
 
 Standing, Guy. "The Precariat." Chapter 1 in _The Precariat: The New Dangerous Class_. Bloomsbury Academic, 2011. ISBN: 9781849663519.
 
-Rand, Ayn. "What is Capitalism?" Chapter 1 in _Capitalism: The Unknown Ideal_. Signet, 1986. ISBN: 9780451147950. \[Preview with [Google Books](http://books.google.com/books?id=eWZbq29waP8C&pg=PAfrontcover)\]
+Rand, Ayn. "What is Capitalism?" Chapter 1 in _Capitalism: The Unknown Ideal_. Signet, 1986. ISBN: 9780451147950. \[Preview with {{% resource_link "eb152a71-e990-4be0-a87e-166eb5550be0" "Google Books" %}}\]
 
-Raban, Jonathan. "[At the Tea Party](http://www.nybooks.com/articles/archives/2010/mar/25/at-the-tea-party/)." _The New York Review of Books_, March 25, 2010.
+Raban, Jonathan. "{{% resource_link "5b183bc8-c69d-4b64-be93-8228b84c17ff" "At the Tea Party" %}}." _The New York Review of Books_, March 25, 2010.
 
-Greenberg, Michael. "[In Zuccotti Park](http://www.nybooks.com/articles/archives/2011/nov/10/zuccotti-park/?pagination=false)." _The New York Review of Books_, November 10, 2011.
+Greenberg, Michael. "{{% resource_link "1f46dadb-120e-446c-9a36-9c1873613a1d" "In Zuccotti Park" %}}." _The New York Review of Books_, November 10, 2011.
 
 
 {{< tdclose >}}
@@ -241,13 +241,13 @@ Capitalism Redux: History, "Progress," and the Return of the Nineteenth Century?
 
 Sinclair, Upton. "Introduction." In _The Jungle_. W. W. Norton & Company, 2002. ISBN: 9780393977790.
 
-———. [_The Jungle_](http://www.gutenberg.org/files/140/140-h/140-h.htm). Doubleday, 1906.
+———. {{% resource_link "b4a07007-dbc7-4c1b-b1ed-0f7bd910710c" "_The Jungle_" %}}. Doubleday, 1906.
 
 *   Chapters 1-4
 *   Chapters 11-12
 *   Chapter 15
 
-Genoways, Ted. "[Cut and Kill](http://www.motherjones.com/politics/2011/06/hormel-spam-pig-brains-disease)." _Mother Jones_, July/August 2011.
+Genoways, Ted. "{{% resource_link "a9c1952a-fc5c-4d6a-b8f8-d65a193bcac3" "Cut and Kill" %}}." _Mother Jones_, July/August 2011.
 
 
 {{< tdclose >}}
@@ -267,7 +267,7 @@ Genoways, Ted. "[Cut and Kill](http://www.motherjones.com/politics/2011/06/horme
 Social Class: Thinking Outside the Box
 {{< tdclose >}}
 {{< tdopen >}}
-Bettie, Julie. "Women without Class." Chapter 2 in _Women without Class: Girls, Race, and Identity_. University of California Press, 2003. ISBN: 9780520235427. \[Preview with [Google Books](http://books.google.com/books?id=CJgrlrpvH4wC&pg=PAfrontcover)\]
+Bettie, Julie. "Women without Class." Chapter 2 in _Women without Class: Girls, Race, and Identity_. University of California Press, 2003. ISBN: 9780520235427. \[Preview with {{% resource_link "533dfd2d-7cef-444c-bced-064a7601e659" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +281,7 @@ Film: People Like Us: Social Class in America. Directed by Louis Alvarez and And
 {{< tdopen >}}
 
 
-Bettie, Julie. Chapters 3–5 in _Women Without Class: Girls, Race, and Identity_. University of California Press, 2003. ISBN: 9780520235427. \[Preview with [Google Books](http://books.google.com/books?id=CJgrlrpvH4wC&pg=PAfrontcover)\]
+Bettie, Julie. Chapters 3–5 in _Women Without Class: Girls, Race, and Identity_. University of California Press, 2003. ISBN: 9780520235427. \[Preview with {{% resource_link "533dfd2d-7cef-444c-bced-064a7601e659" "Google Books" %}}\]
 
 *   Chapter 3: How Working-Class Chicas Get Working-Class Lives
 *   Chapter 4: Hard-Living Habitus, Settled-Living Resentment
@@ -319,7 +319,7 @@ Aldrich, Nelson W., Jr. _Old Money: The Mythology of Wealth in America_. Allwort
 Discussion of "People Like Us"
 {{< tdclose >}}
 {{< tdopen >}}
-Lacy, Karyn. _Blue-Chip Black: Race, Class, and Status in the New Black Middle Class_. University of California Press, 2007. ISBN: 9780520251168. \[Preview with [Google Books](http://books.google.com/books?id=YmoYDf2EBR8C&pg=PAfrontcover)\]
+Lacy, Karyn. _Blue-Chip Black: Race, Class, and Status in the New Black Middle Class_. University of California Press, 2007. ISBN: 9780520251168. \[Preview with {{% resource_link "980fa55b-05d4-4c64-9fa5-3af2cd6dc0a8" "Google Books" %}}\]
 
 *   Chapter 3: Public Identities: Managing Race in Public Spaces.
 *   Chapter 4: Status-Based Identities: Protecting and Reproducing Middle-Class Status.
@@ -373,13 +373,13 @@ Capitalism and Its Others: The Nordic Model
 {{< tdopen >}}
 
 
-Rothstein, Bo, and Lars Tragardh. "The State and Civil Society in Historical Perspective: The Swedish Case." Chapter 7 in _State and Civil Society in Northern Europe: The Swedish Model Reconsidered_. Edited by Lars Tragardh. Berghan Books, 2007, pp. 229–53. ISBN: 9781845452322. \[Preview with [Google Books](http://books.google.com/books?id=oX3JmxQkrRAC&pg=PA229#v=onepage)\]
+Rothstein, Bo, and Lars Tragardh. "The State and Civil Society in Historical Perspective: The Swedish Case." Chapter 7 in _State and Civil Society in Northern Europe: The Swedish Model Reconsidered_. Edited by Lars Tragardh. Berghan Books, 2007, pp. 229–53. ISBN: 9781845452322. \[Preview with {{% resource_link "0fb4bb01-e539-4d4c-aa94-2bb925db1cd4" "Google Books" %}}\]
 
-Barnes, J. A. "[Class and Committees in a Norwegian Island Parish](http://dx.doi.org/10.1177/001872675400700102)." _Human Relations_ 7 (1954): 39–58.
+Barnes, J. A. "{{% resource_link "c148ab38-205d-4259-8b1d-9a52fa517a0a" "Class and Committees in a Norwegian Island Parish" %}}." _Human Relations_ 7 (1954): 39–58.
 
 OR
 
-Isenhour, Cindy. "[Building Sustainable Societies: A Swedish Case Study on the Limits of Reflexive Modernization](http://dx.doi.org/10.1111/j.1548-1425.2010.01269.x)." _American Ethnologist_ 37, no. 3 (2010): 511–25.
+Isenhour, Cindy. "{{% resource_link "01534b3d-2516-466c-a85b-9e35b79bff62" "Building Sustainable Societies: A Swedish Case Study on the Limits of Reflexive Modernization" %}}." _American Ethnologist_ 37, no. 3 (2010): 511–25.
 
 
 {{< tdclose >}}
@@ -395,7 +395,7 @@ Capitalism And Its Others: The "Third World"
 {{< tdopen >}}
 
 
-Donham, Donald L. _Marxist Modern: An Ethnographic History of the Ethiopian Revolution_. University of California, 1999. ISBN: 9780520213296. \[Preview with [Google Books](http://books.google.com/books?id=JF0DhTe0YaoC&pg=PAfrontcover)\]
+Donham, Donald L. _Marxist Modern: An Ethnographic History of the Ethiopian Revolution_. University of California, 1999. ISBN: 9780520213296. \[Preview with {{% resource_link "a92cc02f-2687-4691-936f-f8b4ec18bb84" "Google Books" %}}\]
 
 *   Introduction: Genealogies of the Modern and the Anti-Modern.
 *   Chapter 1: The Metanarrative of Modernity in Ethiopia: 1974.
@@ -423,7 +423,7 @@ Harvey, David. "Neoliberalism 'with Chinese Characteristics'." Chapter 5 in _A B
 Inside the 2008 Financial Crisis
 {{< tdclose >}}
 {{< tdopen >}}
-Ho, Karen. Chapters 1, 2 or 5, and 6 in _Liquidated: An Ethnography of Wall Street_. Duke University Press, 2009. ISBN: 9780822345992. \[Preview with [Google Books](http://books.google.com/books?id=KwgEHdeA-kUC&pg=PAfrontcover)\]
+Ho, Karen. Chapters 1, 2 or 5, and 6 in _Liquidated: An Ethnography of Wall Street_. Duke University Press, 2009. ISBN: 9780822345992. \[Preview with {{% resource_link "b7721f7a-fe3b-4a53-812f-b4fdac54dbd8" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,12 +432,12 @@ Ho, Karen. Chapters 1, 2 or 5, and 6 in _Liquidated: An Ethnography of Wall Stre
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [Frontline: Money, Power & Wall Street](http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/), Episode 1, April 24, 2012.
+Film: {{% resource_link "d3c1d15f-965e-4355-b4a7-fcc32cf422f6" "Frontline: Money, Power & Wall Street" %}}, Episode 1, April 24, 2012.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan was Corrupted by Wall Street Greed and Unleashed a Catastrophe_. Free Press, 2009. ISBN: 9781416598572. \[Preview with [Google Books](http://books.google.com/books?id=HOqjGNm3Xy0C&pg=PAfrontcover)\]
+Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan was Corrupted by Wall Street Greed and Unleashed a Catastrophe_. Free Press, 2009. ISBN: 9781416598572. \[Preview with {{% resource_link "4b93f39f-16a3-47af-aa34-7c4245f3b4a8" "Google Books" %}}\]
 
 *   Part One, pp. 1–86.
 *   Chapter 6
@@ -451,14 +451,14 @@ Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan wa
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [Frontline: Money, Power & Wall Street](http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/), Episode 2, April 24, 2012.
+Film: {{% resource_link "d3c1d15f-965e-4355-b4a7-fcc32cf422f6" "Frontline: Money, Power & Wall Street" %}}, Episode 2, April 24, 2012.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Ho, Karen. Chapters 3 and 4 in _Liquidated: An Ethnography of Wall Street_. Duke University Press, 2009. ISBN: 9780822345992. \[Preview with [Google Books](http://books.google.com/books?id=KwgEHdeA-kUC&pg=PAfrontcover)\]
+Ho, Karen. Chapters 3 and 4 in _Liquidated: An Ethnography of Wall Street_. Duke University Press, 2009. ISBN: 9780822345992. \[Preview with {{% resource_link "b7721f7a-fe3b-4a53-812f-b4fdac54dbd8" "Google Books" %}}\]
 
-Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan was Corrupted by Wall Street Greed and Unleashed a Catastrophe_. Free Press, 2009. ISBN: 9781416598572. \[Preview with [Google Books](http://books.google.com/books?id=HOqjGNm3Xy0C&pg=PAfrontcover)\]
+Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan was Corrupted by Wall Street Greed and Unleashed a Catastrophe_. Free Press, 2009. ISBN: 9781416598572. \[Preview with {{% resource_link "4b93f39f-16a3-47af-aa34-7c4245f3b4a8" "Google Books" %}}\]
 
 *   Part One, pp. 1–86.
 *   Chapters 6, 9, and 15.
@@ -475,7 +475,7 @@ Tett, Gillian. _Fool's Gold: How the Bold Dream of a Small Tribe at JP Morgan wa
 Inside the 2008 Financial Crisis (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Dudley, Kathryn Marie. _The End of the Line: Lost Jobs, New Lives in Postindustrial America_. The University of Chicago Press, 1997. ISBN: 9780226169101. \[Preview with [Google Books](http://books.google.com/books?id=Z9za1fyPpvsC&pg=PAfrontcover)\]
+Dudley, Kathryn Marie. _The End of the Line: Lost Jobs, New Lives in Postindustrial America_. The University of Chicago Press, 1997. ISBN: 9780226169101. \[Preview with {{% resource_link "e718a917-a2d7-4b9b-b2b3-3ab909964296" "Google Books" %}}\]
 
 *   Introduction.
 *   Chapter 3: Dollars and Diplomas.
@@ -492,7 +492,7 @@ Dudley, Kathryn Marie. _The End of the Line: Lost Jobs, New Lives in Postindustr
 Inside the 2008 Financial Crisis (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Dudley, Kathryn Marie. Chapters 5 and 8 in _The End of the Line: Lost Jobs, New Lives in Postindustrial America_. The University of Chicago Press, 1997. ISBN: 9780226169101. \[Preview with [Google Books](http://books.google.com/books?id=Z9za1fyPpvsC&pg=PAfrontcover)\]
+Dudley, Kathryn Marie. Chapters 5 and 8 in _The End of the Line: Lost Jobs, New Lives in Postindustrial America_. The University of Chicago Press, 1997. ISBN: 9780226169101. \[Preview with {{% resource_link "e718a917-a2d7-4b9b-b2b3-3ab909964296" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -510,7 +510,7 @@ Inside the 2008 Financial Crisis (cont.)
 
 Stout, Noelle. _Close to Home: Personal Failure and Public Affect in the Mortgage Crisis_. Paper presented at the American Anthropological Association Conference, San Francisco, November, 2012.
 
-Jefferson, Anna. "[Narratives of Moral Order in Michigan's Foreclosure Crisis](http://dx.doi.org/10.1111/ciso.12006)." _City & Society_ 25, no. 1 (2013): 92–112.
+Jefferson, Anna. "{{% resource_link "6721e312-3998-4825-a5c3-f95108aab2b2" "Narratives of Moral Order in Michigan's Foreclosure Crisis" %}}." _City & Society_ 25, no. 1 (2013): 92–112.
 
 {{% resource_link 444b29e2-537f-aad3-788d-69822b6ceb61 "Discussion Questions for the Final Class (PDF)" %}}
 

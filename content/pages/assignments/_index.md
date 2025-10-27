@@ -21,7 +21,7 @@ There are three written assignments for the course. They are each described belo
 Writing Resources
 -----------------
 
-Students in this course worked with tutors from the [MIT Writing Center](http://cmsw.mit.edu/writing-and-communication-center/). These resources may help you in your own writing. Both documents are courtesy of Diane Hendrix.
+Students in this course worked with tutors from the {{% resource_link "b23e28f6-95ac-4797-aa50-aee212fe2ad6" "MIT Writing Center" %}}. These resources may help you in your own writing. Both documents are courtesy of Diane Hendrix.
 
 *   {{% resource_link 7ab4ad7d-0ff1-b4b9-b399-0a2b55416f40 "How to Improve Your Writing (PDF)" %}}
 *   {{% resource_link 9e49b357-e094-5567-9b72-864ac4b70bf8 "Revising the Draft (PDF)" %}}
